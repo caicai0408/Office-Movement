@@ -1,6 +1,6 @@
 # Check your answer by following commands
 
-Try your solution on each test case by commands:
+Check your solution on each test case by commands:
 
 ```
 $ cat ./testcases/t1 | ./solution.py
