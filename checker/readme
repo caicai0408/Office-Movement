@@ -2,5 +2,5 @@ movement_checker is Linux program.
 
 Please check the solution on a Linux terminal using the following command:
 
-{ cat ./testcases/t1 ; cat ./testcases/t1 | python3 ./solution.py ; } | ./office_movement_checker
+{ cat ./testcases/t1 ; cat ./testcases/t1 | python3 ./solution.py ; } | ./movement_checker
 
