@@ -1,0 +1,14 @@
+maze_checker and movement_checker are Linux program.
+
+Usage:
+
+For Cpp
+{ cat ./testcases/t1 ; cat ./testcases/t1 | ./solution ; } | ./maze_checker
+
+For Java 
+{ cat ./testcases/t1 ; cat ./testcases/t1 | java ./solution.java ; } | ./maze_checker
+
+For Python
+{ cat ./testcases/t1 ; cat ./testcases/t1 | python3 ./solution.py ; } | ./maze_checker
+
+movement_checker is same as above.
