@@ -1,7 +1,7 @@
 # Office-Movement
 Circular rooms personnel movement strategy
 
-[Please click to refer the detail of Maze](https://github.com/caicai0408/Office-Movement/blob/main/Office_Movement_Game.pdf)
+[Please click to refer the detail of Movement](https://github.com/caicai0408/Office-Movement/blob/main/Office_Movement_Game.pdf)
 
 
 This repository contains the solution code and 10 testcase(t0~t9).
