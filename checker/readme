@@ -1,14 +1,6 @@
-maze_checker and movement_checker are Linux program.
+movement_checker is Linux program.
 
-Usage:
+Please check the solution on a Linux terminal using the following command:
 
-For Cpp
-{ cat ./testcases/t1 ; cat ./testcases/t1 | ./solution ; } | ./maze_checker
-
-For Java 
-{ cat ./testcases/t1 ; cat ./testcases/t1 | java ./solution.java ; } | ./maze_checker
-
-For Python
 { cat ./testcases/t1 ; cat ./testcases/t1 | python3 ./solution.py ; } | ./maze_checker
 
-movement_checker is same as above.
